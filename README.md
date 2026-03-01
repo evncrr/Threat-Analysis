@@ -23,7 +23,7 @@
 - Stores network intrusion detection records and supports threat classification analytics.
 ### Phishing URLs Table
 - Stores phishing detection features used to identify malicious websites.
-## Views and Analytics
+## Views
 - threat_risk_intelligence – Breaks down attacks by protocol and category.
 - top_attack_categories – Ranks attack categories by frequency and severity.
 - high_risk_traffic – Detects anomalous high-volume network traffic.
