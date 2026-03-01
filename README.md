@@ -1,4 +1,4 @@
-# Cyber Threat Analysis — Network & Phishing Analysis
+# Cyber Threat Analysis
 ## Project Overview
 - This project analyzes cybersecurity threat data from network traffic and phishing URLs to generate actionable threat intelligence insights.
 - Uses SQL tables, views, aggregation analytics, and anomaly detection to help monitor attacks, analyze risk levels, and detect suspicious patterns.
