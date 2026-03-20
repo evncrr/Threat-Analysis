@@ -5,14 +5,12 @@
 - The system supports cybersecurity teams by identifying high-risk traffic, comparing different threat vectors, and generating normalized risk scores across datasets.
 ## Dataset
 ### Network Traffic Data
-- Contains intrusion detection network telemetry, including:
 - Network connection metrics
 - Protocol and service information
 - Packet and byte statistics
 - Attack classification labels
 - Example fields: id, proto, service, state, sbytes, dbytes, rate, attack_cat, label
 ### Phishing URL Data
-- Contains phishing detection features extracted from URLs and domain metadata, including:
 - URL structural features
 - Domain and DNS characteristics
 - Security certificate indicators
